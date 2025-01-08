@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Emergency_Service_Corps-tracking-Website
 
 This template should help get you started developing with Vue 3 in Vite.
@@ -33,3 +34,7 @@ npm run build
 ```sh
 npm run lint
 ```
+=======
+# Emergency-Service-Corps-Track
+for emergency scouts of agusan del norte tracker by batch
+>>>>>>> 2688a73df8b85fc01320e58a4bfc893fe893c68f
